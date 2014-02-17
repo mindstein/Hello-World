@@ -1,4 +1,4 @@
-Hellow-World
+Hello-World
 ============
 
 first test git repo
